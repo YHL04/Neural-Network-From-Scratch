@@ -1,5 +1,9 @@
 # Neural-Network-From-Scratch
 
-Simplest implementation of a neural network (which is basically a 2D best fit line)
+**Reference:**
 
-Wrote using only numpy and matplotlib
+Neural Network from scratch: https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb
+Computational Graphs for Backpropagation: http://colah.github.io/posts/2015-08-Backprop/
+Matrix Multiplication for Backpropagation: https://cs231n.github.io/optimization-2/
+Softmax-Crossentropy derivatives: https://deepnotes.io/softmax-crossentropy
+
